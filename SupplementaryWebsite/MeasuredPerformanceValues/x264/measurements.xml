@@ -1,4 +1,5 @@
-<results>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
   <row>
     <data columname="Configuration">no_asm,rc_lookahead,rc_lookahead_20,ref,ref_1,</data>
     <data columname="Performance">268.72</data>
@@ -4607,4 +4608,4 @@
     <data columname="Configuration">no_asm,no_8x8dct,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_9,</data>
     <data columname="Performance">780.79</data>
   </row>
-</results>
+</root>
